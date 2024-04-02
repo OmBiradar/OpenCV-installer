@@ -1,7 +1,5 @@
 # OpenCV-installer
 
+This tool serves as an OpenCV Package Manager designed for both C++ and Python. 
 
-This is an OpenCV Package manager for C++ & Python.
-
-
-This program will automate the build and install/uninstall specified OpenCV versions using the source files.
+It streamlines the process of building and installing/uninstalling specific OpenCV versions directly from the source files.
