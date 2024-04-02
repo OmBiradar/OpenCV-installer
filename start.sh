@@ -23,4 +23,4 @@ cmake -DOPENCV_EXTRA_MODULES_PATH=~/opencv_build/opencv_contrib-4.9.0/modules ..
 make -j$(nproc --a)
 
 # Install it
-# sudo make install
+sudo make install
